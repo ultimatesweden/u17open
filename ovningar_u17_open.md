@@ -1,5 +1,8 @@
 Brett led
-----------
+=========
+
+No. 1
+-----
 
     p   .  .  . .  .
                      .
@@ -18,3 +21,8 @@ Brett led
 * 1:an rycket på fel sidan för att rensa
 * 2:an fintar mot djupet och möter
 * 3:an går på djupet och får en lång
+
+
+Växel
+-----
+
