@@ -50,14 +50,14 @@ Smalt led
 dump o sving
 ------------
 
-     | x
-     | x  
-     | x2 > . . . . . p
-     | x1 v
-          .
-          . 
-o\        .
-          p
+             | x
+             | x  
+             | x2 > . . . . . p
+             | x1 v
+                  .
+                  . 
+        o\        .
+                  p
 
 * 1:an kommer på dump
 * 2:an kommer på sving
