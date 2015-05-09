@@ -8,12 +8,12 @@ No. 1
                      .
                      .
       .              .
-     .  ^            ^  
+     .    ^        ^  
     .  x1 x2      x3   x4
-    .       .         
-    .           .         
-    p                 . 
-    
+    .   v             
+    .         .         
+    p             . 
+                      .
                          _
      x                   o
                 x
@@ -25,4 +25,23 @@ No. 1
 
 Växel
 -----
+
+      p  .   .   .   .   .   .
+                             .
+                             .
+                        .    .
+                      .   .  .    
+                    .     ^  . 
+       p          .   x1  x2 .
+        .        p    v     .
+          .            . .
+             .          _
+                . . . . o
+             
+* 1:an möter för att sedan gå på djupet
+* 2:an finat mot djupet för att sedan möte
+* dischållaren går på en give'n'go diagonalt
+* 2:an får en lång
+
+
 
