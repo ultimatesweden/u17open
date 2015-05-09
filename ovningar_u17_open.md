@@ -63,7 +63,9 @@ dump o sving
 * 2:an kommer på sving
 * Dischållaren ställer sig längst bak i ledet. 
 * 1:an ställer sig längst bak i ledet
-* Kör dump sving åt andra hållet.
+* Kör dump sving åt andra hållet
+
+Viktigt att rotera ordentligt så man kan slå dump-passen 
 
 
 
