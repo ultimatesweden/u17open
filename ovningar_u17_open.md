@@ -44,4 +44,26 @@ Växel
 * 2:an får en lång
 
 
+Smalt led
+=========
+
+dump o sving
+------------
+
+     | x
+     | x  
+     | x2 > . . . . . p
+     | x1 v
+          .
+          . 
+o\        .
+          p
+
+* 1:an kommer på dump
+* 2:an kommer på sving
+* Dischållaren ställer sig längst fram i ledet. 
+* 1:an stannar på dump
+* Kör dump sving åt andra hållet.
+
+
 
