@@ -61,8 +61,8 @@ dump o sving
 
 * 1:an kommer på dump
 * 2:an kommer på sving
-* Dischållaren ställer sig längst fram i ledet. 
-* 1:an stannar på dump
+* Dischållaren ställer sig längst bak i ledet. 
+* 1:an ställer sig längst bak i ledet
 * Kör dump sving åt andra hållet.
 
 
