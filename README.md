@@ -12,6 +12,13 @@ Github fungerar ungefär som Dropbox men har bättre stöd för att dela filer m
 * Github program för [Windows](https://windows.github.com)
 * Github progam för [Mac](https://mac.github.com)
 
+Övningar
+--------
+
+* [Övningar U17 open](ovningar_u17_open.md)
+
+
+
 Övrigt
 -----
  
