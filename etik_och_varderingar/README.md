@@ -18,7 +18,7 @@ Svenska Frisbeesportförbundets ställningstagande beträffande frisbeesporte
  * Inom Svenska Frisbeesportförbundet arbetar vi för att låta ungdomar få
   inflytande, bli delaktiga och få ta ansvar för utvecklingen av den egna verksamheten.
 
-
+SFF applicering av [barnkonventionen](Barnkonvention_SFF.PDF)
 
 WFDF Values
 ==========
