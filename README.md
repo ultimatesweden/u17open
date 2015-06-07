@@ -63,6 +63,8 @@ Länkar
  * [EYUC 2015](http://eyuc2015.ultimatecentral.com)
  * [WFDF Rules](http://rules.wfdf.org) - alla spelare måste göra accredation testet
  * [Ultimate Central](http://ultimatecentral.com) - alla spelare måste skapa ett konto här
+ * [Rules accredation progile](http://rules.wfdf.org/component/users/?view=login) - här finns 
+   ditt ID om du gjort provet.
 
 Om dokumentarkivet
 -----------------
