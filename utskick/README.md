@@ -64,6 +64,8 @@ intervallmoment. Om du vill får du ändra ordningen på intervallema.
 
 [Mera fysträning](fystraning.md)
 
+[Program för att träna hoppspänst](hoppspanst.md)
+
 
 Kastträning
 ===========
