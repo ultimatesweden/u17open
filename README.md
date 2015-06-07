@@ -43,6 +43,7 @@ Schema för söndagen:
  * 7:30 frukost
  * 10:30 mellanmål
  * 12:00 dusch och sedan lunch
+ * 13-14 avslutande information och hemfärd
 
 
 Kommunikation
