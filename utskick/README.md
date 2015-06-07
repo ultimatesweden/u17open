@@ -1,5 +1,5 @@
-Allmännt
-========
+Allmänt
+=======
 
 Grattis till landslagsplatsen!
 
