@@ -65,7 +65,7 @@ Efter intervallerna eller vid annat tillfälle:
  * Lättare styrketräning:
  * Burpees (googla om du inte vet vad det är)
  * Situps Magövning-vilken sort väljer du själv-variera.
- * Utfallssteg -  med eller utan vikter [bild](utfallssteg.png))
+ * Utfallssteg -  med eller utan vikter [bild](utfallssteg.png)
  * Armhavningar/chins, valj eller variera [chins](chins.png)
  * Ryggböj - [bild 1](ryggboj.png), [bild 2](ryggboj2.png), [bild 3](ryggboj3.png)
 
