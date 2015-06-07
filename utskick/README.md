@@ -62,6 +62,8 @@ intervallmoment. Om du vill får du ändra ordningen på intervallema.
 * Maxa i 10 sekunder vila i 2 minuter (upprepa 8 gånger)
 * Avsluta med att jogga lite i ett lugnt tempo.
 
+[Mera fysträning](fystraning.md)
+
 
 Kastträning
 ===========

@@ -29,7 +29,7 @@ Komihåg uppvärmning (ca 10 min) före intervallerna och nedjogg efter!
  * Spring ca 90 % i 40 sekunder, vila i 20 sekunder
  * Upprepa 6 gånger.
 
-4 Viktiga saker id intervallträning
+4 Viktiga saker vid intervallträning
 -----------------------------------
 
 Det är både lätt och svårt att träna intervallträning. Lätt är det för att du själv enkelt kan sätta
