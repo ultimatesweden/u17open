@@ -1,8 +1,8 @@
 Svenska Frisbeesportförbundets ställningstagande beträffande frisbeesportens etik
 ================================================================================
 
- * Svenska Frisbeesportförbundet tar avstånd från alla former av fusk och do
- ping.
+ * Svenska Frisbeesportförbundet tar avstånd från alla former av fusk och
+  doping.
  * Svenska Frisbeesportförbundet tar avstånd från alla former av våld,
   mobbning och rasism.
  * Svenska Frisbeesportförbundet tar avstånd från användandet av droger,
