@@ -8,7 +8,7 @@ Spelsystem och övningar
 ----------------------
 
 * [Spelsystem](spelsystem.md)
-* [Hoppspänstprogram](Hoppspanstprogram.pdf)
+* [Hoppspänstprogram](utskick/hoppspanst.md)
 
 
 Övningar man kan göra hemma
