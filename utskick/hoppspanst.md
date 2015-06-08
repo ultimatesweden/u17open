@@ -1,6 +1,8 @@
 Hoppspänstprogram
 ==================
 
+[YouTube video](https://www.youtube.com/watch?v=amGHaE0v2Yk)
+
 Kör detta 1 gång i veckan.
 *  Enbenshopp (5 per ben) - Stå på ett ben med det andra benet böjt högt
 framför dig som att du gör höga knän. Hoppa 5 hopp med samma ben du står på.
