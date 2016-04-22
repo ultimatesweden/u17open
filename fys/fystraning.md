@@ -19,7 +19,7 @@ Komihåg uppvärmning (ca 10 min) före intervallerna och nedjogg efter!
  * Vila sedan en stund för återhämtning, kör sedan 10 ny omgångar
  * Orkar du ytterligare en omgång?
 
-70-20: 
+70-20:
  * Spring ca 90 % i 70 sekunder, vila i 20 sekunder
  * Upprepa 6 gånger.
  * Vila några minuter.
@@ -37,7 +37,7 @@ på dig löparskorna och ge dig ut för att springa intervaller. Det svåra är 
 maximera sin prestation och toppa sin form. Då gäller det att vara noga med
 detaljerna. Vid intervallträning handlar det om att pricka in följande fyra faktorer och element:
 
-Vilka är då de rätta elementen? 
+Vilka är då de rätta elementen?
  * Längden eller tiden på sträckan som du springer
  * Intervallvilan -vilan mellan momenten då du springer
  * Hastigheten och ansträngningen
