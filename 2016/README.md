@@ -1,4 +1,4 @@
 Innehåll
 -------
 
-[Fyspass läger 1](fyspass-lager-1.md)
+[Fyspass läger 1](../fys/fyspass-no1.md)
