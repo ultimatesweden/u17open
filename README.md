@@ -4,6 +4,7 @@ U17 Landslag Frisbee Ultimate U17
 Innehåll
 ----------------------
 
+* [Etik och värderingar](./etik_och_varderingar)
 * [Spelsystem](./spelsystem)
 * [Fys program](./fys)
 * [Kastträning](./kasttraning)
