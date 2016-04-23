@@ -2,10 +2,10 @@ Uppvärmning
 -----------
 
 * Snabba fötter framåt, backa tillbaka
-* Stegringlopp höga knän
-* Stegringslopp coh sparka i baken
+* Stegringslopp höga knän
+* Stegringslopp och sparka i baken
 * Gå i sidled med djupa knänböjningar
-* Rotesirie/Plankan 5 x 45 sek
+* Rotissirie/Plankan 5 x 45 sek
 
 
 Hoppspänstprogram
@@ -21,10 +21,10 @@ Intervaller
 -----------
 
 * Maxa 1 minut och vila i en minut x 6 (spring över hela planen etc.)
-* Java varandra i fyrkant
+* Jaga varandra i fyrkant
 
 
-Sally goes upp
+Bring Sally up
 --------------
 
 * Mage
@@ -42,8 +42,8 @@ Annat
 
 Länkar
 ------
-
-* https://www.youtube.com/watch?v=amGHaE0v2Yk
-* https://www.youtube.com/watch?v=48NAyv3JZ50
-* https://www.youtube.com/watch?v=9rq6iKIPgCY
-* https://www.youtube.com/watch?v=9rq6iKIPgCY
+* [Bring Sally upp](https://www.youtube.com/watch?v=41N6bKO-NVI)
+* [Utmaningen 1](https://www.youtube.com/watch?v=amGHaE0v2Yk)
+* [Utmaningen 2](https://www.youtube.com/watch?v=48NAyv3JZ50)
+* [Utmaningen 3](https://www.youtube.com/watch?v=9rq6iKIPgCY)
+* [Utmaningen 4](https://www.youtube.com/watch?v=9rq6iKIPgCY)
