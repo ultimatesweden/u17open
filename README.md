@@ -5,9 +5,12 @@ Innehåll
 ----------------------
 
 * [Spelsystem](./spelsystem)
-* [Fys program](fys)
+* [Fys program](./fys)
+* [Kastträning](./kasttraning)
 * [2015](2015)
 * [2016](2016)
+* [arkiv](./arkiv)
+
 
 Länkar
 -----
