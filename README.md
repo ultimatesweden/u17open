@@ -4,6 +4,7 @@ U17 Landslag Frisbee Ultimate U17
 Innehåll
 ----------------------
 
+* [Spirit Of The Game](./etik_och_varderingar/SPIRIT.md)
 * [Etik och värderingar](./etik_och_varderingar)
 * [Spelsystem](./spelsystem)
 * [Fys program](./fys)
