@@ -5,7 +5,7 @@ Spirit of the Game är den viktigaste regeln i frisbeesport. Det liknar Fair Pla
 sportmannaskap, men det finns en mycket större betoning på det i  Ultimate. Här är en 
 sammanfattning från [regelhäftet](http://www.wfdf.org/sports/ultimate):
 
-"Alla spelare är ansvariga för att följa reglerna och hjälpa med och motspelare på planen i regelfrågor. Ultimate bygger på en 
+"Alla spelare är ansvariga för att följa reglerna och hjälpa med- och motspelare på planen i regelfrågor. Ultimate bygger på en 
 anda som lägger ansvaret för fair play på varje spelare. Vi litar på att ingen 
 spelare avsiktligt bryter mot reglerna; vilket innebär att det inte finns några 
 hårda straff för överträdelser, utan snarare en metod för att återuppta spelet på ett sätt som 
