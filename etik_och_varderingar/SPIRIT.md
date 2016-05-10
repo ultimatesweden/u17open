@@ -17,7 +17,7 @@ mellan spelare, leda till regelöverträdelser eller minskad spelglädje. "
 Avsiktligt foulande, fusk, farligt spel, respektlösa samtal, och andra 
 "vinna till varje pris beteende" strider mot andan i spelet. Ofta förekommer att en spelare befinner sig i en 
 position där det är till hans / hennes fördel att foula eller begå en regelöverträdelse, det är dock 
-spelares moraliska skyldighet att följa reglerna. Sportens integritet beror på varje 
+spelarnas moraliska skyldighet att följa reglerna. Sportens integritet beror på varje 
 spelares ansvar att upprätthålla Spirit of the Game, detta ansvar måste tas på allvar.
 
 Eftersom Ultimate är en sport där spelarna dömer själva, är det viktigt att upprätthålla Spirit of the Game. 
