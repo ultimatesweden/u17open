@@ -14,7 +14,7 @@ efterliknar vad som skulle troligtvis ha inträffat om någon överträdelse int
 Kämparanda och fysisk excellens uppmuntras, men det får aldrig gå ut över den ömsesidiga respekten 
 mellan spelare, leda till regelöverträdelser eller minskad spelglädje. "
 
-Avsiktligt foulande, fusk, farliga lekar, respektlösa samtal, och andra 
+Avsiktligt foulande, fusk, farligt spel, respektlösa samtal, och andra 
 "vinna till varje pris beteende" strider mot andan i spelet. Ofta förekommer att en spelare befinner sig i en 
 position där det är till hans / hennes fördel att foula eller begå en regelöverträdelse, det är dock 
 spelares moraliskt skyldiga att följa reglerna. Integriteten av sporten beror på varje 
