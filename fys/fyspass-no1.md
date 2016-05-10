@@ -5,7 +5,7 @@ Uppvärmning
 * Stegringslopp höga knän
 * Stegringslopp och sparka i baken
 * Gå i sidled med djupa knänböjningar
-* Rotissirie/Plankan 5 x 45 sek
+* Rotisserie/Plankan 5 x 45 sek
 
 
 Hoppspänstprogram
