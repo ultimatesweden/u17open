@@ -86,3 +86,55 @@ dump o sving
 * Kör dump sving åt andra hållet
 
 Viktigt att rotera ordentligt så man kan slå dump-passen
+
+## Zonförsvar
+
+```
+                     x
+
+         -
+               
+         x            
+  x              x    -
+                        
+      -           
+                      -
+                    /
+                  |      O|
+        x
+                       x
+
+```
+
+* Tre i koppen, en på disc (samma hela tiden)
+* Stoppa forhand
+* Två vingar, den på mörka sidan backar ner lite
+* Viktigt att vingarna jobbar framåt och bakåt och läser spelet
+* En längst bak
+* Styr hela tiden de som är framför dig, läng bak styr vingarna, vingarna hjälper koppen
+
+
+## Anfall mot zonförsvar
+
+```
+                     x4
+
+         -
+               
+         x2            
+  x1             x3   -
+                        
+      -           
+                      -
+                    /
+                  |      O|
+        x
+                       x
+
+```
+
+* Tre backar, viktigt med dump-sving
+* Backen som ligger på dump söker även in i paraplyet
+* En mitt går söker lång, ligger bakom den som håller djupet, hela tiden rörlig så försvararen inte vet var han är
+* Mittarna rycker in i koppen, t.ex. x2 & X3
+* Den tredje mitten, x1, söker kross, backarna måste våga slå uppside
